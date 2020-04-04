@@ -8,3 +8,6 @@ Worked on index.html and style.css to remove some <div> elements and combine the
 
 Commit 3: 
 Turned the .hero <div> into its own section. The .content <div> was also turned into its own <section>. The three <div> contained within that section were turned into <article>. "online-reputation-management" and "social-media-marketing" were changed from id to class.
+
+Commit 4:
+Added alt text for the three article images. "search-engine-optimization" is "Optimization Chart". "online-reputation-management" is "Reputation Graph". "social-media-marketing" is "Social Media Buzzwords".
