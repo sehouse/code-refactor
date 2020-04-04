@@ -13,4 +13,7 @@ Commit 4:
 Added alt text for the three article images. "search-engine-optimization" is "Optimization Chart". "online-reputation-management" is "Reputation Graph". "social-media-marketing" is "Social Media Buzzwords".
 
 Commit 5:
-Turned the benefits div into an aside. The div within benefits all were changed to articles. Added alt text for the images within these articles. "lead-generation" is "Generate Customers". "brand-awareness" is "Increase Visibility". "cost-management" is "Decrease Marketing Costs". Changed title to "Horiseon Social Solution Services". Moved the aside css elements after the section/article css elements, so that it matches the flow of the html code.
+Turned the benefits div into an aside. The div within benefits all were changed to articles. Added alt text for the images within these articles. "lead-generation" is "Generate Customers". "brand-awareness" is "Increase Visibility". "cost-management" is "Decrease Marketing Costs". Changed title to "Horiseon Social Soltution Services". Moved the aside css elements after the section/article css elements, so that it matches the flow of the html code.
+
+Commit 6:
+Footer div changed into a footer semantic HTML.
