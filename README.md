@@ -17,3 +17,6 @@ Turned the benefits div into an aside. The div within benefits all were changed 
 
 Commit 6:
 Footer div changed into a footer semantic HTML.
+
+Commit 7:
+Addition of anchor tags to the articles embedded within the section HTML, so that the header links navigate to those parts of the page.
